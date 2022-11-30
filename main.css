@@ -1,0 +1,23 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-image {
+    background-image: url(img/phone-wallpaper-ge9dfd1702_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.carousel-item img{
+    object-fit: cover;
+}
+
+.bg-search {
+    background: rgb(0,36,0);
+    background: linear-gradient(90deg, rgba(0,36,0,1) 0%, rgba(9,121,28,1) 35%, rgba(111,180,124,1) 100%);
+}
+
+.bg-coluna-1 {
+    background-color: rgba(37, 37, 37, 0.505);
+}
